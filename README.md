@@ -1,4 +1,6 @@
-## Hi there 👋
+## whoami?
+Im a Undergraduate student majoring in mathematics, and is building stuff in Rust. Im only at the beginning of my programming journey and am open to discussions or critics to my repos.
+Im particularly interested in building high-perf system level rust apps, and is learning using AI, youtube and docs.rs
 
 <!--
 **ghasaqillayl/ghasaqillayl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
