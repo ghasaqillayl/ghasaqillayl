@@ -1,5 +1,5 @@
 ## whoami?
-Im a Undergraduate student majoring in mathematics, and is building stuff in Rust. Im only at the beginning of my programming journey and am open to discussions or critics to my repos.
+Im a Undergraduate student majoring in mathematics, and building stuff in Rust. Im only at the beginning of my programming journey and am open to discussions or critics to my repos.
 Im particularly interested in building high-perf system level rust apps, and is learning using AI, youtube and docs.rs
 
 <!--
